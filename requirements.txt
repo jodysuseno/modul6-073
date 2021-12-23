@@ -1,8 +1,8 @@
 Flask
-h5py
+h5py==2.10.0
 gunicorn
-numpy
-scipy
+numpy==1.18
+scipy==1.4.1
 Keras
 Pillow
 opencv-python
