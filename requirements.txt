@@ -6,6 +6,6 @@ scipy
 Keras
 Pillow
 opencv-python
-opencv
+opencv-python-headless==4.2.0.32
 Flask-WTF
 tensorflow-cpu
