@@ -6,5 +6,6 @@ scipy
 Keras
 Pillow
 opencv-python
+python3-opencv
 Flask-WTF
 tensorflow-cpu
